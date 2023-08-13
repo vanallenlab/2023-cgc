@@ -1,2 +1,2 @@
 # Example outputs for Molecular Oncology Almanac
-Please view our documentation on the [description of outputs](/docs/description-of-outputs.md) in the [`docs`](/docs/) folder of this repository for more information.
+These outputs are from the [algorithm's repository](https://github.com/vanallenlab/moalmanac), which has additional documentation.
